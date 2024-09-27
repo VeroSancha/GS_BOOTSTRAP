@@ -1,0 +1,9 @@
+body{
+    background-color: aliceblue;
+}
+
+.cont-pr .row *{
+padding: 1rem 2rem;
+background-color:rgba(137, 43, 226, 0.4);
+border: solid 1px blueviolet;
+}
